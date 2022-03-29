@@ -7,5 +7,7 @@ These are the Jupyter Notebook tutorials on Side-Channel Analysis, for the HW Mo
 
 ## ⚠️ NOTE TO FUTURE MAINTAINERS ⚠️
 This repo has been intentionally published with a stripped-down history to avoid leakage of confidential information.
-PLEASE, check your commits twice before pushing them: once published that's it, game over.
+
+* PLEASE, check your commits twice before pushing them: once published that's it, game over.
+* PLEASE, do not infringe open source licenses
 
