@@ -1,6 +1,6 @@
 # Tutorials_cw-cyberchallenge
 
-These are the Jupyter Notebook tutorials on Side-Channel Analysis, for the HW Module_3 section of [cyberchallenge.it](https://cyberchallenge.it/).
+The Jupyter Notebook tutorials on Side-Channel Analysis for the HW Module_3 section of [cyberchallenge.it](https://cyberchallenge.it/).
 **This repo is public**, to adhere to NewAE's original GPL(v3?) licensing policies.
 
 ## License notice
